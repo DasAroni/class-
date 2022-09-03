@@ -1,0 +1,27 @@
+.heading {
+    width: 80%;
+    font-size: 25;
+}
+
+body {
+    background-color: pink;
+}
+
+b {
+    color: yellow;
+}
+
+p {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#camera{
+    width: 330px;
+    height: 250px;
+    border:2px dashed black;
+
+}
